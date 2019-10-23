@@ -1,6 +1,4 @@
-# ui
-
-A new Flutter project.
+# Flutter-UI-Practice
 
 ## Getting Started
 
